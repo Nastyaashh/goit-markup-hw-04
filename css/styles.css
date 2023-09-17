@@ -467,6 +467,8 @@ align-items: center;
 
 }
 .team-socials-list-footer {
+    display: flex;
+    justify-content: center;
     gap: 16px;
 }
 .icon-socials-footer {
