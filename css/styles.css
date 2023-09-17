@@ -316,9 +316,9 @@ margin-bottom: 8px;
 }
 .team-socials-list {
     display: flex;
-    align-items: center;
     justify-content: center;
     gap: 24px;
+    
 }
 .team-socials-link {
     width: 40px;
